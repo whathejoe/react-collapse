@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nkbt/react-collapse.git"
+    "url": "https://github.com/whathejoe/react-collapse.git#dist"
   },
   "keywords": [
     "component",
